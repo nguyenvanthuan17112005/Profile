@@ -4,8 +4,8 @@ import SwiftUI
 struct ProfileView: View {
     
     // Thuộc tính để hiển thị tên và địa điểm
-    let name = "Johan Smith"
-    let location = "California, USA"
+    let name = "Nguyễn Văn Thuận"
+    let location = "Hồ Chí Minh City"
     let avatarName = "avatar" // ⬅️ Đặt tên file ảnh trong Assets của bạn
     
     var body: some View {
